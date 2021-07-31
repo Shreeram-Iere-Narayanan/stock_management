@@ -1,0 +1,11 @@
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.csprojAssemblyReference.cache
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.csproj.CoreCompileInputs.cache
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.AssemblyInfoInputs.cache
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.AssemblyInfo.cs
+C:\Code\7.1_AbstractTransactions\bin\Debug\netcoreapp2.0\7.1_AbstractTransactions.deps.json
+C:\Code\7.1_AbstractTransactions\bin\Debug\netcoreapp2.0\7.1_AbstractTransactions.runtimeconfig.json
+C:\Code\7.1_AbstractTransactions\bin\Debug\netcoreapp2.0\7.1_AbstractTransactions.runtimeconfig.dev.json
+C:\Code\7.1_AbstractTransactions\bin\Debug\netcoreapp2.0\7.1_AbstractTransactions.dll
+C:\Code\7.1_AbstractTransactions\bin\Debug\netcoreapp2.0\7.1_AbstractTransactions.pdb
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.dll
+C:\Code\7.1_AbstractTransactions\obj\Debug\netcoreapp2.0\7.1_AbstractTransactions.pdb
